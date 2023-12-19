@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @synapselxy
-- 👀 I’m interested in SDE
-- 🌱 I’m currently learning CV and Soft Engineering.
+- 👀 I’m interested in SOTA technologies.
+- 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ：my email_address is synapse99ok@gmail.com
 
